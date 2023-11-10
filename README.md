@@ -67,7 +67,7 @@
 
 ### Built With
 
-* [![Python][Python.org]][Python-url]
+* [![Python][python.org]][Python-url]
 * [![Plotly][plotly.com]][Plotly-url]
 * [![Jupyter Notebook][jupyter.org]][Jupyter-url]
 
@@ -127,7 +127,10 @@ Distributed under the Generic License. See `LICENSE.txt` for more information.
 [license-url]: https://github.com////LICENSE](https://github.com/sathish-mass/Automobile-Sales-Data-Visualization-Dashboard-Plotly/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
+[python.org]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://Python.org 
+[plotly.com]: https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white
 [Plotly-url]: https://plotly.com/python/getting-started/
+[jupyter.org]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
 [Jupyter-url]: https://jupyter.org/
 
